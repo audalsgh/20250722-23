@@ -4,7 +4,7 @@
 [교수님의 로보플로우-런파드 연동 자료](https://docs.google.com/document/d/14UZTOXzo2wvKDHm8MRjCrucP1JV6uojaU2NxWFSNO-A/edit?tab=t.0)<br>
 [교수님의 로보플로우 자료](https://docs.google.com/document/d/1dX04LQyjvr5-s3gsnk4QqRllBLTgHZzXCGvCRgGFu7s/edit?tab=t.0)
 
-1. <img width="1499" height="913" alt="image" src="https://github.com/user-attachments/assets/697b4e19-9175-4d19-ae3f-5dca045f2633" />
+1. <br><img width="1499" height="913" alt="image" src="https://github.com/user-attachments/assets/697b4e19-9175-4d19-ae3f-5dca045f2633" />
 어노테이팅을 500장 완료했다고 가정.
 
 2. <img width="841" height="914" alt="image" src="https://github.com/user-attachments/assets/193051be-1624-4bcf-824b-ed3b85cd17fd" />

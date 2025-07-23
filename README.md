@@ -18,3 +18,11 @@
 
 5. 코랩으로 넘어가서, api가 가려진 .snippet코드 전체를 가져오면된다.
 <img width="795" height="434" alt="image" src="https://github.com/user-attachments/assets/472c1be6-8dac-49c4-bce0-30ced069c97c" />
+
+## 코랩에서 뜨는 오류들
+<img width="2560" height="780" alt="image" src="https://github.com/user-attachments/assets/4d22b0a2-270e-4f0a-b106-c51f0b959780" /><br>
+현재 data.yaml에서는 상위 디렉토리(즉, ../)의 train, valid, test 폴더를 참조하고 있음.<br>
+Colab 내 실제 폴더 구조인 traffic-detection-1/train/images 경로로 맞춰준다.<br>
+
+<img width="2037" height="729" alt="image" src="https://github.com/user-attachments/assets/bb60bc9b-dd8e-41fb-865d-f24c6d341a86" /><br>
+이제 오류없이 에포크가 실행된다
